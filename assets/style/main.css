@@ -1,0 +1,35 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@font-face {
+  font-family: National-Regular;
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts/national/National-Regular.otf) format("woff")
+}
+
+@font-face {
+  font-family: National-Book;
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts/national/National-Book.otf) format("woff")
+}
+
+@font-face {
+  font-family: National-Medium;
+  font-style: normal;
+  font-weight: 600;
+  src: url(../fonts/national/National-Medium.otf) format("woff")
+}
+
+@font-face {
+  font-family: Sailec-Light;
+  src: url(../fonts/sailec-webfont/33C86F_2_0.eot);
+  src: url(../fonts/sailec-webfont/33C86F_2_0.eot?#iefix) format("embedded-opentype"), url(../fonts/sailec-webfont/33C86F_2_0.woff2) format("woff2"), url(../fonts/sailec-webfont/33C86F_2_0.woff) format("woff"), url(../fonts/sailec-webfont/33C86F_2_0.ttf) format("truetype")
+}
+
+@font-face {
+  font-family: Sailec-Medium;
+  src: url(../fonts/sailec-webfont/33C86F_4_0.eot);
+  src: url(../fonts/sailec-webfont/33C86F_4_0.eot?#iefix) format("embedded-opentype"), url(../fonts/sailec-webfont/33C86F_4_0.woff2) format("woff2"), url(../fonts/sailec-webfont/33C86F_4_0.woff) format("woff"), url(../fonts/sailec-webfont/33C86F_4_0.ttf) format("truetype")
+}
